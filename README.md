@@ -13,9 +13,6 @@
 
   chatBot libreria de Leifer Mendez:.
 
-## Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_nombre_de_usuario&show_icons=true&theme=radical)
 
 ## Contacto
 
